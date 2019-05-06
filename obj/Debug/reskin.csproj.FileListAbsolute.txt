@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Plugins\SkinChanger.dll
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Plugins\SkinChanger.pdb
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\reskin.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\reskin.csproj.CopyComplete
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\SkinChanger.dll
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\SkinChanger.pdb
