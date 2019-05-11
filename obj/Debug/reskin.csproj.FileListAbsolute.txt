@@ -4,3 +4,10 @@ C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\reskin.
 C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\reskin.csproj.CopyComplete
 C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\SkinChanger.dll
 C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\Suicide\masssuicide\obj\Debug\SkinChanger.pdb
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\SkinChanger\Skin-Changer\obj\Debug\reskin.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\SkinChanger\Skin-Changer\obj\Debug\reskin.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\SkinChanger\Skin-Changer\obj\Debug\SkinChanger.dll
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\SkinChanger\Skin-Changer\obj\Debug\SkinChanger.pdb
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\Plugins\SkinChanger.dll
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\Plugins\SkinChanger.pdb
+C:\Users\Alex\Desktop\Rotmg\x31.6.0\KRelay\SkinChanger\SkinChanger\Skin-Changer\obj\Debug\reskin.csproj.CopyComplete
