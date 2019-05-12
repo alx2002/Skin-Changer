@@ -3,9 +3,9 @@ using Lib_K_Relay.Utilities;
 
 namespace Helper
 {
-    public static class Extension
+    internal static class Extension
     {
-        public static void Notify(this Client client, string text)
+        internal static void Notify(this Client client, string text)
         {
             client.SendToClient(PluginUtils.CreateOryxNotification("SkinChanger", text));
         }
